@@ -46,7 +46,7 @@ All practical activities were performed using Linux command-line tools.
 | Shell | Bash |
 | Web Server | Apache HTTP Server |
 | Platform | AWS EC2 |
-| Screenshot Directory | `img/` |
+| Screenshot Directory | `image/` |
 
 ---
 
