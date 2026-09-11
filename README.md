@@ -315,11 +315,11 @@ Configure permissions so that:
 ```bash
 mkdir public private shared
 ls
-chmod 755 LinuxExam/public
+chmod 755 public/
 ls-ld public/
-chmod 700 LinuxExam/private
+chmod 700 private/
 ls-ld private/
-chmod 770 LinuxExam/shared
+chmod 770 shared/
 ls-ld shared/
 ```
 
